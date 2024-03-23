@@ -1,0 +1,30 @@
+### CODE CHALLENGE-challenge-1
+
+#### Date-2024/03/22
+
+### By *Samuel Githaiga*
+
+## Description;
+It's a web page showing the prompts a user should use to imput students marksbetween 1 an 100.
+
+## Description
+Create a new repository on your GitHub account.Then clonethe files in the repository and push your work after you are done.
+
+## Installation instractions
+After you are dine with your work git clone itnto the new repository and push the work into the repostory .Copy the https link into the the assignment page and submmmit
+
+## Live link
+
+## Technologies used 
+Javascript
+GitHub
+
+### How to go about it 
+> Create a Javascript file  inside the challange-1 folder.
+> Create a function called calculateGrade and put the  parameter marks.
+> Use the syntax if for marks > 79 and then return a string 'A'.
+>Then use else if (marks marks >= 60 && marks <= 79) then return a sring 'B'.
+>Continue using else if for all the values of 'C', 'D' and 'E' and do not forget to return the string of the values.
+
+
+>After returning the values of the strings create another fuction called promptForMarks
